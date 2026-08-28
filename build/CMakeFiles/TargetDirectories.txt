@@ -1,3 +1,0 @@
-/home/mason-boelter/projects/C++Lox/MBminiCompile/build/CMakeFiles/clox.dir
-/home/mason-boelter/projects/C++Lox/MBminiCompile/build/CMakeFiles/edit_cache.dir
-/home/mason-boelter/projects/C++Lox/MBminiCompile/build/CMakeFiles/rebuild_cache.dir

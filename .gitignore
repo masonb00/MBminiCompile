@@ -1,0 +1,29 @@
+# --- CMake build output ---
+# Contains machine-specific paths, cached compiler choice, generated Makefiles.
+# Never commit this — always regenerate per machine with `cmake -B build`.
+build/
+out/
+cmake-build-*/
+
+# --- Compiled binaries / objects ---
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dylib
+clox
+
+# --- Editor / IDE cruft ---
+.vscode/
+.idea/
+*.swp
+*~
+
+# --- OS cruft ---
+.DS_Store
+Thumbs.db
+
+# --- Compile commands (generated, IDE tooling reads this but shouldn't be committed) ---
+compile_commands.json

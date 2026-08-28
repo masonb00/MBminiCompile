@@ -1,1 +1,0 @@
-/usr/bin/g++-14 -g CMakeFiles/clox.dir/src/main.cpp.o CMakeFiles/clox.dir/src/chunk.cpp.o CMakeFiles/clox.dir/src/debug.cpp.o -o clox 
